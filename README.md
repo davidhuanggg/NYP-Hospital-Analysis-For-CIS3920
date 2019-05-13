@@ -3,7 +3,7 @@ A project that was done for my data mining class that tried to help analyze ways
 
 Contributors:
 David Huang
-
-
 James Liang
+
+
 My contribution to this project: Used R code to generate linear Regressions, decision trees, KNN classifer & histograms. 
